@@ -34,7 +34,7 @@
     </parent>
 
     <!-- Documentation Module -->
-    <groupId>org.forgerock.forgerock-parent</groupId>
+    <groupId>org.forgerock.openam</groupId>
     <artifactId>openam-documentation</artifactId>
 
     <name>OpenAM Documentation</name>
